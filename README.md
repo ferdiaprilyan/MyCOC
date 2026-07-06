@@ -1,12 +1,12 @@
 ### gram
 
-`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH7 &nbsp;·&nbsp; Level 24
+`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH7 &nbsp;·&nbsp; Level 25
 Clan: SROMZ GUARDIAN (member) &nbsp;·&nbsp; War: in
 Labels: `Hungry Learner` `Teacher` `Veteran`
 
 | | |
 |---|---|
-| Trophies | 28 (Best: 0) |
+| Trophies | 28 (Best: 28) |
 | War Stars | 3 |
 | Attack Wins | 0 |
 | Defense Wins | 0 |
@@ -24,8 +24,8 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
 | Gold Grab (2/3⭐) | Total Gold looted: 11971633 |
 | Elixir Escapade (2/3⭐) | Total Elixir looted: 7486617 |
-| Sweet Victory! (0/3⭐) | Trophy record: 0 |
-| Empire Builder (2/3⭐) | Current Clan Castle level: 2 |
+| Sweet Victory! (0/3⭐) | Trophy record: 28 |
+| Empire Builder (2/3⭐) | Current Clan Castle level: 3 |
 | Wall Buster (2/3⭐) | Total Walls destroyed: 141 |
 | Humiliator (1/3⭐) | Total Town Halls destroyed: 62 |
 | Union Buster (1/3⭐) | Total Builder's Huts destroyed: 136 |
@@ -87,6 +87,8 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - XP: 23 → 24
 - Healing Spell: 2 → 3
 - Trophies: 0 → 28
+- XP: 24 → 25
+- Best Trophies: 0 → 28
 
 </details>
 
