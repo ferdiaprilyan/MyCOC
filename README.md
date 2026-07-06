@@ -1,6 +1,6 @@
 ### gram
 
-`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH6 &nbsp;·&nbsp; Level 23
+`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH7 &nbsp;·&nbsp; Level 23
 Clan: SROMZ GUARDIAN (member) &nbsp;·&nbsp; War: in
 Labels: `Hungry Learner` `Teacher` `Veteran`
 
@@ -19,7 +19,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Achievement | Progress |
 |---|---|
 | Get even more Goblins! (1/3⭐) | Stars in Campaign Map: 24 |
-| Bigger & Better (2/3⭐) | Current Town Hall level: 6 |
+| Bigger & Better (2/3⭐) | Current Town Hall level: 7 |
 | Nice and Tidy (2/3⭐) | Total obstacles removed: 53 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
 | Gold Grab (2/3⭐) | Total Gold looted: 9935361 |
@@ -35,30 +35,31 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 ---
 
-7 Troops
+8 Troops
 
 | | |
 |---|---|
-| 🏹 Archer | `▌██████████▏` 3/3 |
-| 🎈 Balloon | `▌██████████▏` 3/3 |
-| 🪓 Barbarian | `▌██████████▏` 3/3 |
-| 🦍 Giant | `▌██████████▏` 3/3 |
-| 👺 Goblin | `▌██████████▏` 3/3 |
-| 💣 Wall Breaker | `▌██████████▏` 3/3 |
-| 🧙 Wizard | `▌██████████▏` 3/3 |
+| 🏹 Archer | `▌████████░░▏` 3/4 |
+| 🎈 Balloon | `▌████████░░▏` 3/4 |
+| 🪓 Barbarian | `▌████████░░▏` 3/4 |
+| 🦍 Giant | `▌████████░░▏` 3/4 |
+| 👺 Goblin | `▌████████░░▏` 3/4 |
+| 💖 Healer | `▌█████░░░░░▏` 1/2 |
+| 💣 Wall Breaker | `▌████████░░▏` 3/4 |
+| 🧙 Wizard | `▌████████░░▏` 3/4 |
 
 2 Spells
 
 | | |
 |---|---|
-| 💚 Healing Spell | `▌███████░░░▏` 2/3 |
+| 💚 Healing Spell | `▌█████░░░░░▏` 2/4 |
 | ⚡ Lightning Spell | `▌████████░░▏` 3/4 |
 
 1 Heroes
 
 | | |
 |---|---|
-| 👑 Barbarian King | `▌██████████▏` 1/1 |
+| 👑 Barbarian King | `▌█░░░░░░░░░▏` 1/10 |
 
 3 Builder Base Troops
 
@@ -81,6 +82,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Builder Trophies: 156 → 192
 - Received: 15 → 30
 - Healing Spell: 1 → 2
+- TH: 6 → 7
 
 </details>
 
