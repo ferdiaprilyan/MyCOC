@@ -22,20 +22,20 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Bigger & Better (2/3⭐) | Current Town Hall level: 7 |
 | Nice and Tidy (2/3⭐) | Total obstacles removed: 53 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
-| Gold Grab (2/3⭐) | Total Gold looted: 9935361 |
-| Elixir Escapade (2/3⭐) | Total Elixir looted: 6559373 |
+| Gold Grab (2/3⭐) | Total Gold looted: 11971633 |
+| Elixir Escapade (2/3⭐) | Total Elixir looted: 7486617 |
 | Sweet Victory! (0/3⭐) | Trophy record: 0 |
 | Empire Builder (2/3⭐) | Current Clan Castle level: 2 |
-| Wall Buster (2/3⭐) | Total Walls destroyed: 122 |
+| Wall Buster (2/3⭐) | Total Walls destroyed: 141 |
 | Humiliator (1/3⭐) | Total Town Halls destroyed: 62 |
-| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 134 |
-| Conqueror (1/3⭐) | Total multiplayer battles won: 65 |
+| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 136 |
+| Conqueror (1/3⭐) | Total multiplayer battles won: 67 |
 
 </details>
 
 ---
 
-8 Troops
+9 Troops
 
 | | |
 |---|---|
@@ -45,6 +45,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | 🦍 Giant | `▌████████░░▏` 3/4 |
 | 👺 Goblin | `▌████████░░▏` 3/4 |
 | 💖 Healer | `▌█████░░░░░▏` 1/2 |
+| 🦇 Minion | `▌█████░░░░░▏` 1/2 |
 | 💣 Wall Breaker | `▌████████░░▏` 3/4 |
 | 🧙 Wizard | `▌████████░░▏` 3/4 |
 
