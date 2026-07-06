@@ -6,7 +6,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 | | |
 |---|---|
-| Trophies | 0 (Best: 0) |
+| Trophies | 28 (Best: 0) |
 | War Stars | 3 |
 | Attack Wins | 0 |
 | Defense Wins | 0 |
@@ -86,6 +86,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - TH: 6 → 7
 - XP: 23 → 24
 - Healing Spell: 2 → 3
+- Trophies: 0 → 28
 
 </details>
 
