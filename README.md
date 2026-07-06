@@ -20,16 +20,16 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 |---|---|
 | Get even more Goblins! (1/3⭐) | Stars in Campaign Map: 24 |
 | Bigger & Better (2/3⭐) | Current Town Hall level: 6 |
-| Nice and Tidy (1/3⭐) | Total obstacles removed: 45 |
+| Nice and Tidy (1/3⭐) | Total obstacles removed: 46 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
-| Gold Grab (2/3⭐) | Total Gold looted: 8964374 |
-| Elixir Escapade (2/3⭐) | Total Elixir looted: 6109269 |
+| Gold Grab (2/3⭐) | Total Gold looted: 9935361 |
+| Elixir Escapade (2/3⭐) | Total Elixir looted: 6559373 |
 | Sweet Victory! (0/3⭐) | Trophy record: 0 |
 | Empire Builder (2/3⭐) | Current Clan Castle level: 2 |
-| Wall Buster (2/3⭐) | Total Walls destroyed: 101 |
-| Humiliator (1/3⭐) | Total Town Halls destroyed: 61 |
-| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 132 |
-| Conqueror (1/3⭐) | Total multiplayer battles won: 64 |
+| Wall Buster (2/3⭐) | Total Walls destroyed: 122 |
+| Humiliator (1/3⭐) | Total Town Halls destroyed: 62 |
+| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 134 |
+| Conqueror (1/3⭐) | Total multiplayer battles won: 65 |
 
 </details>
 
