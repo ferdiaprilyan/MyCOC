@@ -20,7 +20,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 |---|---|
 | Get even more Goblins! (1/3⭐) | Stars in Campaign Map: 24 |
 | Bigger & Better (2/3⭐) | Current Town Hall level: 6 |
-| Nice and Tidy (1/3⭐) | Total obstacles removed: 39 |
+| Nice and Tidy (1/3⭐) | Total obstacles removed: 45 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
 | Gold Grab (2/3⭐) | Total Gold looted: 8188307 |
 | Elixir Escapade (2/3⭐) | Total Elixir looted: 5804801 |
