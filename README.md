@@ -12,7 +12,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Defense Wins | 0 |
 | Donations | 15 / 15 received |
 | Capital | 0 |
-| Builder Hall | 2 (Wood League V, 79) |
+| Builder Hall | 2 (Wood League IV, 156) |
 
 <details><summary>Achievements</summary>
 
@@ -60,11 +60,12 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 |---|---|
 | 👑 Barbarian King | `▌██████████▏` 1/1 |
 
-1 Builder Base Troops
+2 Builder Base Troops
 
 | | |
 |---|---|
-| 🏗️ Raged Barbarian | `▌██░░░░░░░░▏` 3/20 |
+| 🏗️ Raged Barbarian | `▌██░░░░░░░░▏` 4/20 |
+| 🏗️ Sneaky Archer | `▌██░░░░░░░░▏` 3/20 |
 
 ---
 
@@ -74,6 +75,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Donations: 0 → 15
 - XP: 22 → 23
 - Wall Breaker: 2 → 3
+- Builder Trophies: 79 → 156
 
 </details>
 
