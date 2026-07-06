@@ -1,6 +1,6 @@
 ### gram
 
-`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH6 &nbsp;·&nbsp; Level 22
+`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH6 &nbsp;·&nbsp; Level 23
 Clan: SROMZ GUARDIAN (member) &nbsp;·&nbsp; War: in
 Labels: `Hungry Learner` `Teacher` `Veteran`
 
@@ -44,8 +44,8 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | 🪓 Barbarian | `▌██████████▏` 3/3 |
 | 🦍 Giant | `▌██████████▏` 3/3 |
 | 👺 Goblin | `▌██████████▏` 3/3 |
+| 💣 Wall Breaker | `▌██████████▏` 3/3 |
 | 🧙 Wizard | `▌██████████▏` 3/3 |
-| 💣 Wall Breaker | `▌███████░░░▏` 2/3 |
 
 2 Spells
 
@@ -72,6 +72,8 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 **2026-07-06**
 - Donations: 0 → 15
+- XP: 22 → 23
+- Wall Breaker: 2 → 3
 
 </details>
 
