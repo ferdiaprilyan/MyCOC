@@ -10,7 +10,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | War Stars | 3 |
 | Attack Wins | 0 |
 | Defense Wins | 0 |
-| Donations | 15 / 15 received |
+| Donations | 15 / 30 received |
 | Capital | 0 |
 | Builder Hall | 3 (Wood League IV, 192) |
 
@@ -79,6 +79,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Builder Trophies: 79 → 156
 - Builder Hall: 2 → 3
 - Builder Trophies: 156 → 192
+- Received: 15 → 30
 
 </details>
 
