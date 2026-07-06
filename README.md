@@ -53,7 +53,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 | | |
 |---|---|
-| 💚 Healing Spell | `▌█████░░░░░▏` 2/4 |
+| 💚 Healing Spell | `▌████████░░▏` 3/4 |
 | ⚡ Lightning Spell | `▌████████░░▏` 3/4 |
 
 1 Heroes
@@ -85,6 +85,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Healing Spell: 1 → 2
 - TH: 6 → 7
 - XP: 23 → 24
+- Healing Spell: 2 → 3
 
 </details>
 
