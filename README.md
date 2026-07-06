@@ -12,7 +12,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Defense Wins | 0 |
 | Donations | 15 / 15 received |
 | Capital | 0 |
-| Builder Hall | 2 (Wood League IV, 156) |
+| Builder Hall | 3 (Wood League IV, 192) |
 
 <details><summary>Achievements</summary>
 
@@ -20,7 +20,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 |---|---|
 | Get even more Goblins! (1/3⭐) | Stars in Campaign Map: 24 |
 | Bigger & Better (2/3⭐) | Current Town Hall level: 6 |
-| Nice and Tidy (1/3⭐) | Total obstacles removed: 46 |
+| Nice and Tidy (2/3⭐) | Total obstacles removed: 53 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
 | Gold Grab (2/3⭐) | Total Gold looted: 9935361 |
 | Elixir Escapade (2/3⭐) | Total Elixir looted: 6559373 |
@@ -60,10 +60,11 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 |---|---|
 | 👑 Barbarian King | `▌██████████▏` 1/1 |
 
-2 Builder Base Troops
+3 Builder Base Troops
 
 | | |
 |---|---|
+| 🏗️ Boxer Giant | `▌█░░░░░░░░░▏` 1/20 |
 | 🏗️ Raged Barbarian | `▌██░░░░░░░░▏` 4/20 |
 | 🏗️ Sneaky Archer | `▌██░░░░░░░░▏` 3/20 |
 
@@ -76,6 +77,8 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - XP: 22 → 23
 - Wall Breaker: 2 → 3
 - Builder Trophies: 79 → 156
+- Builder Hall: 2 → 3
+- Builder Trophies: 156 → 192
 
 </details>
 
