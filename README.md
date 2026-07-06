@@ -1,6 +1,6 @@
 ### gram
 
-`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH7 &nbsp;·&nbsp; Level 23
+`#GP80C0G00` &nbsp; ⚪ Unranked &nbsp;·&nbsp; TH7 &nbsp;·&nbsp; Level 24
 Clan: SROMZ GUARDIAN (member) &nbsp;·&nbsp; War: in
 Labels: `Hungry Learner` `Teacher` `Veteran`
 
@@ -83,6 +83,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Received: 15 → 30
 - Healing Spell: 1 → 2
 - TH: 6 → 7
+- XP: 23 → 24
 
 </details>
 
