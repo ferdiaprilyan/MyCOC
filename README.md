@@ -51,7 +51,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 | | |
 |---|---|
-| 💚 Healing Spell | `▌███░░░░░░░▏` 1/3 |
+| 💚 Healing Spell | `▌███████░░░▏` 2/3 |
 | ⚡ Lightning Spell | `▌████████░░▏` 3/4 |
 
 1 Heroes
@@ -80,6 +80,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Builder Hall: 2 → 3
 - Builder Trophies: 156 → 192
 - Received: 15 → 30
+- Healing Spell: 1 → 2
 
 </details>
 
