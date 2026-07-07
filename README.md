@@ -10,7 +10,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | War Stars | 3 |
 | Attack Wins | 0 |
 | Defense Wins | 0 |
-| Donations | 15 / 30 received |
+| Donations | 35 / 30 received |
 | Capital | 0 |
 | Builder Hall | 3 (Wood League IV, 192) |
 
@@ -22,13 +22,13 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Bigger & Better (2/3⭐) | Current Town Hall level: 7 |
 | Nice and Tidy (2/3⭐) | Total obstacles removed: 53 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
-| Gold Grab (2/3⭐) | Total Gold looted: 11971633 |
-| Elixir Escapade (2/3⭐) | Total Elixir looted: 7486617 |
+| Gold Grab (2/3⭐) | Total Gold looted: 12373723 |
+| Elixir Escapade (2/3⭐) | Total Elixir looted: 7908243 |
 | Sweet Victory! (0/3⭐) | Trophy record: 28 |
 | Empire Builder (2/3⭐) | Current Clan Castle level: 3 |
-| Wall Buster (2/3⭐) | Total Walls destroyed: 141 |
-| Humiliator (1/3⭐) | Total Town Halls destroyed: 62 |
-| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 136 |
+| Wall Buster (2/3⭐) | Total Walls destroyed: 148 |
+| Humiliator (1/3⭐) | Total Town Halls destroyed: 63 |
+| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 138 |
 | Conqueror (1/3⭐) | Total multiplayer battles won: 67 |
 
 </details>
@@ -73,6 +73,9 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 ---
 
 <details><summary>📜 Changelog</summary>
+
+**2026-07-07**
+- Donations: 15 → 35
 
 **2026-07-06**
 - Donations: 0 → 15
