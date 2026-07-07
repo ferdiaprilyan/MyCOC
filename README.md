@@ -22,14 +22,14 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | Bigger & Better (2/3⭐) | Current Town Hall level: 7 |
 | Nice and Tidy (2/3⭐) | Total obstacles removed: 53 |
 | Discover New Troops (2/3⭐) | Unlock Wall Breaker in the Barracks |
-| Gold Grab (2/3⭐) | Total Gold looted: 12683543 |
-| Elixir Escapade (2/3⭐) | Total Elixir looted: 7910995 |
+| Gold Grab (2/3⭐) | Total Gold looted: 13610014 |
+| Elixir Escapade (2/3⭐) | Total Elixir looted: 8565029 |
 | Sweet Victory! (0/3⭐) | Trophy record: 68 |
 | Empire Builder (2/3⭐) | Current Clan Castle level: 3 |
-| Wall Buster (2/3⭐) | Total Walls destroyed: 159 |
-| Humiliator (1/3⭐) | Total Town Halls destroyed: 64 |
-| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 140 |
-| Conqueror (1/3⭐) | Total multiplayer battles won: 69 |
+| Wall Buster (2/3⭐) | Total Walls destroyed: 171 |
+| Humiliator (1/3⭐) | Total Town Halls destroyed: 66 |
+| Union Buster (1/3⭐) | Total Builder's Huts destroyed: 142 |
+| Conqueror (1/3⭐) | Total multiplayer battles won: 71 |
 
 </details>
 
