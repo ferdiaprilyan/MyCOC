@@ -40,6 +40,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | | |
 |---|---|
 | 🦍 Giant | `▌██████████▏` 4/4 |
+| 🧙 Wizard | `▌██████████▏` 4/4 |
 | 🏹 Archer | `▌████████░░▏` 3/4 |
 | 🎈 Balloon | `▌████████░░▏` 3/4 |
 | 🪓 Barbarian | `▌████████░░▏` 3/4 |
@@ -48,7 +49,6 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 | 🐗 Hog Rider | `▌█████░░░░░▏` 1/2 |
 | 🦇 Minion | `▌█████░░░░░▏` 1/2 |
 | 💣 Wall Breaker | `▌████████░░▏` 3/4 |
-| 🧙 Wizard | `▌████████░░▏` 3/4 |
 
 2 Spells
 
@@ -80,6 +80,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Trophies: 68 → 191
 - Best Trophies: 68 → 191
 - Giant: 3 → 4
+- Wizard: 3 → 4
 
 **2026-07-07**
 - Donations: 15 → 35
