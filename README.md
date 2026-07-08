@@ -6,7 +6,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 
 | | |
 |---|---|
-| Trophies | 191 (Best: 191) |
+| Trophies | 231 (Best: 191) |
 | War Stars | 3 |
 | Attack Wins | 0 |
 | Defense Wins | 0 |
@@ -81,6 +81,7 @@ Labels: `Hungry Learner` `Teacher` `Veteran`
 - Best Trophies: 68 → 191
 - Giant: 3 → 4
 - Wizard: 3 → 4
+- Trophies: 191 → 231
 
 **2026-07-07**
 - Donations: 15 → 35
